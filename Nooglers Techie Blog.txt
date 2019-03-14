@@ -1,25 +1,26 @@
-Nooglers Techie Blog
+#Nooglers Techie Blog
 
 
-blog_url:http://nooglerstechiechennai.blogspot.com
+blog_url:  http://nooglerstechiechennai.blogspot.com
 
+https://www.linkedin.com/in/kishorekumarpooruli/
 queries:crazykishore2015@gmail.com
 -----------------------------------------------------------------------------------------------------------
-First_post:
+# First_post:
 
-url:http://nooglerstechiechennai.blogspot.com/2018/05/nogglers-techie-blog-post-1-taj-mahal.html
+url: http://nooglerstechiechennai.blogspot.com/2018/05/nogglers-techie-blog-post-1-taj-mahal.html
 
 Title:Taj_Mahal in C_Programming Language
 -----------------------------------------------------------------------------------------------------------
-Second_post:
+# Second_post:
 
-url:http://nooglerstechiechennai.blogspot.com/2018/05/print-map-of-india-using-c-programming.html
+url: http://nooglerstechiechennai.blogspot.com/2018/05/print-map-of-india-using-c-programming.html
 
 Title:Print Map of India using C Programming Language
 -----------------------------------------------------------------------------------------------------------
-Third_post:
+# Third_post:
 
-url:http://nooglerstechiechennai.blogspot.com/2018/05/free-open-source-software-nmap-nmap.html
+url: http://nooglerstechiechennai.blogspot.com/2018/05/free-open-source-software-nmap-nmap.html
 
 Title:Free Open Source Software:FOSS
 -----------------------------------------------------------------------------------------------------------
